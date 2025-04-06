@@ -27,9 +27,4 @@
     <PackageReference Include="YoutubeExplode" Version="6.5.4" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Commands\" />
-    <Folder Include="Music\" />
-  </ItemGroup>
-
 </Project>

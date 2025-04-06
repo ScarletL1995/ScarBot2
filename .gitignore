@@ -361,3 +361,9 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Old Files/Audio.cs
+/Old Files/Decoder.cs
+/Old Files/FFmpegSetup.cs
+/Old Files/Main.cs
+/Old Files/Music.cs
+/Old Files/Resampler.cs
